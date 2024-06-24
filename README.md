@@ -172,3 +172,5 @@ https://guides.github.com/features/mastering-markdown/
 
 #### ¿Por qué debería documentar todo lo que aprendo?
 Garantizamos tener la información de nuestro conocimiento accesible todo el tiempo, con el objetivo de recordar partes de datos claves que necesitemos en futuros proyectos o simplemente retroalimentarnos de manera colectiva gracias a la facilidad de poder contribuir entre varias personas con el proyecto.
+...
+
